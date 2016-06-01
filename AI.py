@@ -122,6 +122,7 @@ def directShot(coinToPot):
 
 	return False,0;
 
+#Testing
 for coin in listOfWhiteCoins:
 	boolv,x = directShot(coin)
 	if(boolv):
